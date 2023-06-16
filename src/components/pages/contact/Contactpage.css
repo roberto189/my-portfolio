@@ -1,0 +1,11 @@
+.contactpage{
+    display: flex;
+    width: 95%;
+    justify-content: space-between;
+    background-color: aqua;
+    margin-top: 10%;
+}
+/* .email{
+    position:relative;
+    bottom:25%;
+} */
